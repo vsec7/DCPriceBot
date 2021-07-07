@@ -1,0 +1,19 @@
+{
+  "name": "viloidPricebot",
+  "version": "1.0.0",
+  "description": "Just simple bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "github.com/vsec7",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "node-fetch": "^2.6.1"
+  }
+}
